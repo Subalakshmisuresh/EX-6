@@ -62,7 +62,13 @@ OUTPUT:
 
 CLIENT:
 
+![image](https://github.com/Subalakshmisuresh/EX-6/assets/121957896/214ae732-70db-49d9-b5ad-0ce09ae8d74a)
+
+
 SERVER:
+
+![Uploading image.png…]()
+
 
 RESULT:
 
