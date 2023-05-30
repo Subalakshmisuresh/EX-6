@@ -67,7 +67,8 @@ CLIENT:
 
 SERVER:
 
-![Uploading image.png…]()
+![6s](https://github.com/Subalakshmisuresh/EX-6/assets/121957896/ea8d6601-269c-43bf-8474-c5c4e0b48e5b)
+
 
 
 RESULT:
